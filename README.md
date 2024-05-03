@@ -3,24 +3,37 @@
 
 <!--Header Name-->
 # Hᴇʟʟᴏ, I'ᴍ Fᴇʀɴᴀɴᴅᴏ!
-<br /> 
 
-<!--Start Intro-->               
-<p align="left">I am a Front-End Developer with a huge love for Next js, React.js. </p>
+<!--Start Intro-->
+<table border="0">
+  <tr>
+    <!-- Text Column -->
+    <td valign="top" width="70%">
+
+I am a Front-End Developer with a huge love for Next js, React.js.
 
 - ✨ ...
-- 🌱 I’m currently learning...
+- 🌱 I’m currently learning Nodejs and PostgreSQL.
 - 💻 Visit my [Portfolio](https://) for more details about me.
- - 💬 Ask me about programming in general, I am always
-available to help and learn together.
-<!--End Intro-->
+- 💬 Ask me about programming in general, I am always available to help and learn together.
 
+    </td>
+    <!-- Image Column -->
+    <td>
+      <img width="200px" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/1d09b8f5-5cd6-4fad-acc5-653baa10df1a" alt="Fernando's Project" />
+    </td>
+
+    <td>
+      <img width="270px" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/0d41335b-c4f0-4910-8af6-7260bfc9df7b" alt="Fernando's Project" />
+    </td>
+  </tr>
+</table>
 <br />
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,redux,git,vscode,docker,postman,notion&perline=10"  />
+<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,redux,git,vscode,docker,postman,notion&perline=10"  />
 </p>
 <br />
 
