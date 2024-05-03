@@ -20,17 +20,18 @@ available to help and learn together.
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,redux,nodejs,express,postgres,git,vscode,docker,postman,notion&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,redux,git,vscode,docker,postman,notion&perline=10"  />
 </p>
 <br />
 
 <!--Featured project Section--> 
 <h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</h2> 
-**PepineApp**
+
+**𝘗𝘦𝘱𝘪𝘯𝘦𝘈𝘱𝘱**
 
 This project is an e-commerce website developed in collaboration with my colleagues. It uses a modern tech stack including Node.js, Express.js, PostgreSQL, Next.js, and Redux Toolkit. I focused primarily on frontend development, implementing dynamic and responsive interfaces with React and Next.js.
 - **Features**: Product management, shopping cart, integrated payments, SEO optimization.
-- **Code**: _You can put a link to the repository here if it is public._
+- **Code**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
 <br />
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
