@@ -5,12 +5,10 @@
 # Hᴇʟʟᴏ, I'ᴍ Fᴇʀɴᴀɴᴅᴏ!
 
 <!--Start Intro-->
-<table border="0">
-  <tr>
-    <!-- Text Column -->
-    <td valign="top" width="70%">
+I'm a passionate Front-End Developer from Uruguay, currently living in Toulouse, France.
 
-a passionate Front-End Developer from Uruguay, currently living in Toulouse, France.
+<img width="155px" align="right" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/1d09b8f5-5cd6-4fad-acc5-653baa10df1a" alt="Fernando's Project" />
+
 
 - ✨ I specialize in creating sleek, responsive interfaces using modern technologies like Next.js and Tailwind CSS.
 - 🎸 Outside of coding, I’m an amateur guitarist and enjoy exploring different genres of music in my free time.
@@ -19,17 +17,6 @@ a passionate Front-End Developer from Uruguay, currently living in Toulouse, Fra
 - 💻 Visit my [Portfolio](https://) to see some of the applications I've built and learn more about my work.
 - 💬 Feel free to ask me about programming, or even about guitars and music. I'm always open to helping and learning together.
 
-    </td>
-    <!-- Image Column -->
-    <td>
-      <img width="200px" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/1d09b8f5-5cd6-4fad-acc5-653baa10df1a" alt="Fernando's Project" />
-    </td>
-
-    <td>
-      <img width="270px" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/0d41335b-c4f0-4910-8af6-7260bfc9df7b" alt="Fernando's Project" />
-    </td>
-  </tr>
-</table>
 <br />
 
 <!--Languages and Tools Section-->       
