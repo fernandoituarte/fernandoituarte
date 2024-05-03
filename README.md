@@ -10,12 +10,14 @@
     <!-- Text Column -->
     <td valign="top" width="70%">
 
-I am a Front-End Developer with a huge love for Next js, React.js.
+a passionate Front-End Developer from Uruguay, currently living in Toulouse, France.
 
-- ✨ ...
-- 🌱 I’m currently learning Nodejs and PostgreSQL.
-- 💻 Visit my [Portfolio](https://) for more details about me.
-- 💬 Ask me about programming in general, I am always available to help and learn together.
+- ✨ I specialize in creating sleek, responsive interfaces using modern technologies like Next.js and Tailwind CSS.
+- 🎸 Outside of coding, I’m an amateur guitarist and enjoy exploring different genres of music in my free time.
+- 🌱 Currently, I’m deepening my understanding of Node.js and PostgreSQL to expand my full-stack capabilities.
+- 🚀 I’m keen on taking on challenging projects that allow me to push the boundaries of web development and collaborate with creative minds.
+- 💻 Visit my [Portfolio](https://) to see some of the applications I've built and learn more about my work.
+- 💬 Feel free to ask me about programming, or even about guitars and music. I'm always open to helping and learning together.
 
     </td>
     <!-- Image Column -->
