@@ -30,7 +30,7 @@ available to help and learn together.
 **𝘗𝘦𝘱𝘪𝘯𝘦𝘈𝘱𝘱**
 
 This project is an e-commerce website developed in collaboration with my colleagues. It uses a modern tech stack including Node.js, Express.js, PostgreSQL, Next.js, and Redux Toolkit. I focused primarily on frontend development, implementing dynamic and responsive interfaces with React and Next.js.
-- **Features**: Product management, shopping cart, integrated payments, SEO optimization.
+- **Features**: Product management, shopping cart...
 - **Code**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
 <br />
 
