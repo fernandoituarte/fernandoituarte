@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer from Uruguay🇺🇾, currently living in T
 
 - ✨ I specialize in creating sleek, responsive interfaces using modern technologies like Next.js and Tailwind CSS.
 - 🎸 Outside of coding, I’m an amateur guitarist and enjoy exploring different genres of music in my free time.
-- 🌱 Currently, I’m deepening my understanding of Node.js and PostgreSQL to expand my full-stack capabilities.
+- 🌱 Currently, I'm learning Nest.js to enhance my full-stack capabilities.
 - 🚀 I’m keen on taking on challenging projects that allow me to push the boundaries of web development and collaborate with creative minds.
 - 💻 Visit my [Portfolio](https://) to see some of the applications I've built and learn more about my work.
 - 💬 Feel free to ask me about programming, or even about guitars and music. I'm always open to helping and learning together.
@@ -22,7 +22,7 @@ I'm a passionate Front-End Developer from Uruguay🇺🇾, currently living in T
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwindcss,redux,git,vscode,docker,postman,notion&perline=10"  />
+<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10"  />
 </p>
 <br />
 
@@ -36,14 +36,6 @@ This project is an e-commerce website developed in collaboration with my colleag
 - **Code**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
 <br />
 
-<!--Dynamic Quote card updated everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Ming-Dao%20Deng&quote=Who%20you%20are%20is%20always%20right.&theme=dark&bg_color=011627&author_color=ffeb95">
-</p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 <!--Contact Section--> 
 
