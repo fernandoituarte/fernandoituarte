@@ -33,7 +33,8 @@ I'm a passionate Front-End Developer from Uruguay🇺🇾, currently living in T
 
 This project is an e-commerce website developed in collaboration with my colleagues. It uses a modern tech stack including Node.js, Express.js, PostgreSQL, Next.js, and Redux Toolkit. I focused primarily on frontend development, implementing dynamic and responsive interfaces with React and Next.js.
 - **Features**: Product management, shopping cart...
-- **Code**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
+- **Front**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
+- **Back**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Back)
 <br />
 
 
