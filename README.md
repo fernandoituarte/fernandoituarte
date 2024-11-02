@@ -5,7 +5,7 @@
 # Hᴇʟʟᴏ, I'ᴍ Fᴇʀɴᴀɴᴅᴏ!
 
 <!--Start Intro-->
-I'm a passionate Front-End Developer from Uruguay🇺🇾, currently living in Toulouse, France🇫🇷.
+I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in Toulouse, France🇫🇷.
 
 <img width="155px" align="right" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/1d09b8f5-5cd6-4fad-acc5-653baa10df1a" alt="Fernando's Project" />
 
@@ -22,7 +22,7 @@ I'm a passionate Front-End Developer from Uruguay🇺🇾, currently living in T
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=js,html,css,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10"  />
+<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10"  />
 </p>
 <br />
 
