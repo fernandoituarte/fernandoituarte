@@ -7,7 +7,6 @@
 <!--Start Intro-->
 I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in Toulouse, France🇫🇷.
 
-<img width="155px" align="right" src="https://github.com/O-clock-Arancini/projet-05-pepine-front/assets/144491409/1d09b8f5-5cd6-4fad-acc5-653baa10df1a" alt="Fernando's Project" />
 
 
 - ✨ I specialize in creating sleek, responsive interfaces using modern technologies like Next.js and Tailwind CSS.
