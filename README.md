@@ -13,7 +13,7 @@ I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in 
 - 🎸 Outside of coding, I’m an amateur guitarist and enjoy exploring different genres of music in my free time.
 - 🌱 Currently, I'm learning Nest.js to enhance my full-stack capabilities.
 - 🚀 I’m keen on taking on challenging projects that allow me to push the boundaries of web development and collaborate with creative minds.
-- 💻 Visit my [Portfolio](https://) to see some of the applications I've built and learn more about my work.
+- 💻 Visit my [Portfolio](https://www.fernandoituarte.com) to see some of the applications I've built and learn more about my work.
 - 💬 Feel free to ask me about programming, or even about guitars and music. I'm always open to helping and learning together.
 
 <br />
