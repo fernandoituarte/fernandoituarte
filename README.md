@@ -32,8 +32,8 @@ I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in 
 
 PepineApp is an e-commerce application developed with NestJS, Next.js, and Redux. It offers stock management, orders without online payment, secure authentication, as well as other practical features for users.
 - **Features**: Product management, shopping cart...
-- **Front**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
-- **Back**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Back)
+- **Front**: [Repository](https://github.com/fernandoituarte/PepineApp-Front)
+- **Back**: [Repository](https://github.com/fernandoituarte/PepineApp-Back)
 <br />
 
 
