@@ -30,7 +30,7 @@ I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in 
 
 **𝘗𝘦𝘱𝘪𝘯𝘦𝘈𝘱𝘱**
 
-This project is an e-commerce website developed in collaboration with my colleagues. It uses a modern tech stack including Node.js, Express.js, PostgreSQL, Next.js, and Redux Toolkit. I focused primarily on frontend development, implementing dynamic and responsive interfaces with React and Next.js.
+PepineApp is an e-commerce application developed with NestJS, Next.js, and Redux. It offers stock management, orders without online payment, secure authentication, as well as other practical features for users.
 - **Features**: Product management, shopping cart...
 - **Front**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Front)
 - **Back**: [PepineApp](https://github.com/fernandoituarte/PepineApp-Back)
