@@ -1,56 +1,68 @@
-<!--Banner-->
 ![fernandoituarte Banner Image](https://github.com/fernandoituarte/fernandoituarte/blob/main/banner.png)
 
-<!--Header Name-->
-# Hᴇʟʟᴏ, I'ᴍ Fᴇʀɴᴀɴᴅᴏ!
+# Hi, I'm Fernando
 
-<!--Start Intro-->
-I'm a passionate Full-Stack Developer from Uruguay🇺🇾, currently living in Toulouse, France🇫🇷.
+I'm a Full-Stack Developer from Uruguay, currently based in Toulouse, France.
 
+I enjoy building web products that are useful, clear, and fast.
 
+What I usually work with:
+- TypeScript, React, Next.js
+- NestJS and REST APIs
+- Tailwind CSS
+- PostgreSQL
 
-- ✨ I specialize in creating sleek, responsive interfaces using modern technologies like Next.js and Tailwind CSS.
-- 🎸 Outside of coding, I’m an amateur guitarist and enjoy exploring different genres of music in my free time.
-- 🌱 Currently, I'm learning Nest.js to enhance my full-stack capabilities.
-- 🚀 I’m keen on taking on challenging projects that allow me to push the boundaries of web development and collaborate with creative minds.
-- 💻 Visit my [Portfolio](https://www.fernandoituarte.com) to see some of the applications I've built and learn more about my work.
-- 💬 Feel free to ask me about programming, or even about guitars and music. I'm always open to helping and learning together.
+Outside programming, I play guitar and spend a lot of time listening to music.
 
-<br />
+Right now I'm focused on improving my backend skills with NestJS and building better full-stack architectures.
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+Portfolio: [www.fernandoituarte.com](https://www.fernandoituarte.com)
+
+## Languages and Tools
+
 <p align="center">
-<img width="500px" margin="100px 100px" src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10"  />
+  <img width="500" src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10" />
 </p>
-<br />
 
-<!--Featured project Section--> 
-<h2 align="center">Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛ</h2> 
+## Featured Project
 
-**𝘗𝘦𝘱𝘪𝘯𝘦𝘈𝘱𝘱**
+### Commerce App Launcher
 
-PepineApp is an e-commerce application developed with NestJS, Next.js, and Redux. It offers stock management, orders without online payment, secure authentication, as well as other practical features for users.
-- **Features**: Product management, shopping cart...
-- **Front**: [Repository](https://github.com/fernandoituarte/PepineApp-Front)
-- **Back**: [Repository](https://github.com/fernandoituarte/PepineApp-Back)
-<br />
+Commerce App Launcher is the core orchestration platform of a SaaS e-commerce ecosystem based on microservices.
+It is designed as a production-ready backend architecture where each service is independently deployable and scalable.
 
+Built with NestJS and TypeORM, the platform combines synchronous communication (HTTP through an API Gateway) with asynchronous, event-driven flows using RabbitMQ.
+Redis is used for caching and session management, while PostgreSQL powers service-specific data persistence.
 
-<!--Contact Section--> 
+What this project solves:
+- Centralized API access through a Client Gateway
+- Secure authentication with JWT (access, refresh, and reset flows)
+- Multi-organization (multi-tenant) architecture
+- Full product, order, and payment lifecycle orchestration
+- Decoupled communication between services via events and queues
+- Integrations with Stripe (payments), AWS S3 (media), and SMTP providers (notifications)
 
-<h2 align="center">📫 Hᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ: </h2>
+Core services:
+- client-gateway
+- auth-ms
+- products-ms
+- organization-ms
+- orders-ms
+- payments-ms
+- media-ms
+- notifications-ms
+
+This is one of my most important long-term projects, focused on clean architecture, reliability, and real-world backend scalability.
+
+## Contact
+
 <div align="center">
- <a href="https://www.linkedin.com/in/fernandoituarte/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-  
-<a href="mailto:fernandoituarte.dev@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=fernandoituarte.dev@gmail.com mail style="margin-bottom: 5px;" />
-</a>
 
+  <a href="mailto:fernandoituarte.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
-<!--Footer--> 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" />
 </p>
