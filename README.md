@@ -60,6 +60,8 @@ I usually work with architectures that prioritize scalability and clear separati
 
 ### Commerce App Launcher
 
+Repository: [View on GitHub](https://github.com/Commerce-SaaS/commerce-app-launcher)
+
 Commerce App Launcher is an advanced personal project for e-commerce SaaS orchestration.
 
 It coordinates multiple microservices through a central gateway and combines synchronous HTTP communication with asynchronous messaging. The system supports authentication, product management, organization-level multi-tenancy, order lifecycle management, payments, notifications, and media services.
