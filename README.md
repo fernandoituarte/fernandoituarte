@@ -6,8 +6,6 @@ Junior Full-Stack Developer focused on building solid SaaS products and backend 
 
 I am from Uruguay and currently based in Toulouse, France. I am in the early stage of my professional career and I have been building personal projects focused on e-commerce and business use cases, with a strong interest in architecture, performance, and maintainability.
 
-Portfolio: [fernandoituarte.com](https://www.fernandoituarte.com)
-
 ## Professional Profile
 
 - Junior developer with hands-on project experience in NestJS and TypeScript
