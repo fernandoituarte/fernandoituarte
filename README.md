@@ -1,46 +1,75 @@
 ![fernandoituarte Banner Image](https://github.com/fernandoituarte/fernandoituarte/blob/main/banner.png)
 
-# Hi, I'm Fernando
+# Fernando Ituarte
 
-I'm a Full-Stack Developer from Uruguay, currently based in Toulouse, France.
+Junior Full-Stack Developer focused on building solid SaaS products and backend fundamentals.
 
-I enjoy building web products that are useful, clear, and fast.
+I am from Uruguay and currently based in Toulouse, France. I am in the early stage of my professional career and I have been building personal projects focused on e-commerce and business use cases, with a strong interest in architecture, performance, and maintainability.
 
-What I usually work with:
-- TypeScript, React, Next.js
-- NestJS and REST APIs
+Portfolio: [fernandoituarte.com](https://www.fernandoituarte.com)
+
+## Professional Profile
+
+- Junior developer with hands-on project experience in NestJS and TypeScript
+- Comfortable building full-stack features with React and Next.js
+- Practical knowledge of API design, authentication flows, and event-driven patterns
+- Focused on clean code, modular architecture, and continuous learning
+
+## Technologies
+
+### Backend
+- TypeScript
+- Node.js
+- NestJS
+- REST APIs
+- TypeORM
+
+### Frontend
+- React
+- Next.js
 - Tailwind CSS
+- Redux
+
+### Data and Messaging
 - PostgreSQL
+- Redis
+- RabbitMQ
 
-Outside programming, I play guitar and spend a lot of time listening to music.
-
-Right now I'm focused on improving my backend skills with NestJS and building better full-stack architectures.
-
-Portfolio: [www.fernandoituarte.com](https://www.fernandoituarte.com)
-
-## Languages and Tools
+### DevOps and Tooling
+- Docker and Docker Compose
+- Git and GitHub
+- Postman
+- VS Code
 
 <p align="center">
-  <img width="500" src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,tailwindcss,redux,postgresql,git,vscode,docker,postman,notion&perline=10" />
+  <img width="600" src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,react,nextjs,tailwind,redux,postgres,redis,docker,git,github,vscode,postman,aws&perline=8" />
 </p>
+
+## Architecture and Engineering
+
+I usually work with architectures that prioritize scalability and clear separation of responsibilities:
+
+- Microservices architecture with independent services and databases
+- API Gateway as a single entry point for client applications
+- Event-driven communication using RabbitMQ for asynchronous workflows
+- Redis for session handling, caching, and response optimization
+- Secure authentication and authorization with JWT flows (access, refresh, reset)
+- External integrations such as Stripe for payments and AWS S3 for media management
 
 ## Featured Project
 
 ### Commerce App Launcher
 
-Commerce App Launcher is the core orchestration platform of a SaaS e-commerce ecosystem based on microservices.
-It is designed as a production-ready backend architecture where each service is independently deployable and scalable.
+Commerce App Launcher is an advanced personal project for e-commerce SaaS orchestration.
 
-Built with NestJS and TypeORM, the platform combines synchronous communication (HTTP through an API Gateway) with asynchronous, event-driven flows using RabbitMQ.
-Redis is used for caching and session management, while PostgreSQL powers service-specific data persistence.
+It coordinates multiple microservices through a central gateway and combines synchronous HTTP communication with asynchronous messaging. The system supports authentication, product management, organization-level multi-tenancy, order lifecycle management, payments, notifications, and media services.
 
-What this project solves:
-- Centralized API access through a Client Gateway
-- Secure authentication with JWT (access, refresh, and reset flows)
-- Multi-organization (multi-tenant) architecture
-- Full product, order, and payment lifecycle orchestration
-- Decoupled communication between services via events and queues
-- Integrations with Stripe (payments), AWS S3 (media), and SMTP providers (notifications)
+Main work and highlights:
+- Designed a modular service ecosystem with independent deployment and scaling in mind
+- Implemented event-driven flows for decoupled communication between core domains
+- Integrated Stripe payment processing, SMTP notifications, and AWS S3 media handling
+- Structured data ownership per service to improve reliability and operational clarity
+- Applied Redis caching and session strategies to improve performance
 
 Core services:
 - client-gateway
@@ -52,12 +81,11 @@ Core services:
 - media-ms
 - notifications-ms
 
-This is one of my most important long-term projects, focused on clean architecture, reliability, and real-world backend scalability.
+This is my most important long-term learning project and reflects how I approach backend architecture, scalability, and engineering best practices as a junior developer.
 
 ## Contact
 
 <div align="center">
-
   <a href="mailto:fernandoituarte.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="margin-bottom: 5px;" />
   </a>
